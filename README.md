@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! 👋 I'm Mahyar Shakori
 
-<!--
-**mahyar-shakori/mahyar-shakori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 I'm an iOS Developer passionate about developing mobile applications with Swift and SwiftUI.
 
-Here are some ideas to get you started:
+🛠️ I’ve developed several projects available on my GitHub, feel free to explore them! I'm always open to feedback and collaboration with the developer community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I actively follow tech projects and love contributing to and learning from the iOS community.
+
+🌱 My journey started with IT engineering, and I found my passion in mobile development and have been growing in this field ever since.
+
+🔍 I enjoy exploring various domains, from software development to system design and product thinking.
+
+📫 You can reach me at: shakori.ma@gmail.com
